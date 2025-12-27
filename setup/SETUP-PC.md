@@ -1,3 +1,6 @@
+Notes:
+* good resource on uv and how to use it
+
 ## Master AI Agentic Engineering -  build autonomous AI Agents
 
 # Setup instructions for PC
